@@ -1,0 +1,15 @@
+# Build artifacts
+uu_wheel_flip
+module/uu_wheel_flip
+dist/
+*.zip
+
+# Local logs and dumps
+*.log
+input*.txt
+getevent*.txt
+
+# Local diagnostic tools
+grab_test*
+read_virtual*
+uinput_test*
